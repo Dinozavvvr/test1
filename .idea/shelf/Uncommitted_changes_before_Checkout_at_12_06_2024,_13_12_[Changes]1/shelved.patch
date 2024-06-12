@@ -1,0 +1,72 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>target/\n!.mvn/wrapper/maven-wrapper.jar\n!**/src/main/**/target/\n!**/src/test/**/target/\n\n### IntelliJ IDEA ###\n.idea/modules.xml\n.idea/jarRepositories.xml\n.idea/compiler.xml\n.idea/libraries/\n*.iws\n*.iml\n*.ipr\n\n### Eclipse ###\n.apt_generated\n.classpath\n.factorypath\n.project\n.settings\n.springBeans\n.sts4-cache\n\n### NetBeans ###\n/nbproject/private/\n/nbbuild/\n/dist/\n/nbdist/\n/.nb-gradle/\nbuild/\n!**/src/main/**/build/\n!**/src/test/**/build/\n\n### VS Code ###\n.vscode/\n\n### Mac OS ###\n.DS_Store
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	
++++ b/.gitignore	
+@@ -8,6 +8,7 @@
+ .idea/jarRepositories.xml
+ .idea/compiler.xml
+ .idea/libraries/
++.idea/**
+ *.iws
+ *.iml
+ *.ipr
+@@ -35,4 +36,5 @@
+ .vscode/
+ 
+ ### Mac OS ###
+-.DS_Store
+\ No newline at end of file
++.DS_Store
++/.idea/
+Index: .idea/sonarlint/securityhotspotstore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n7\n\u0007pom.xml\u0012,4/4/442292b8a7efeabbe4cc176709b833b1792140ec\ne\n5src/main/java/ru/madbrains/lesson1/SquarePrinter.java\u0012,7/7/77eb08ffc060fe92e3acda5dfd385c6d181b8b6e\nk\n;src/main/java/ru/madbrains/lesson1/SquarePrinterAndrey.java\u0012,5/0/502bca352fe92108f5819686501ebee40867ecd3\n_\n/src/main/java/ru/madbrains/lesson1/Methods.java\u0012,9/8/98d999222e2d5db9cfe8be64065f9067a1552497\n?\n\u000Fgit-commands.md\u0012,5/2/520caa0438b6c923705974bd53573259fb5d79c2
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/securityhotspotstore/index.pb b/.idea/sonarlint/securityhotspotstore/index.pb
+--- a/.idea/sonarlint/securityhotspotstore/index.pb	
++++ b/.idea/sonarlint/securityhotspotstore/index.pb	
+@@ -8,4 +8,9 @@
+ _
+ /src/main/java/ru/madbrains/lesson1/Methods.java,9/8/98d999222e2d5db9cfe8be64065f9067a1552497
+ ?
+-git-commands.md,5/2/520caa0438b6c923705974bd53573259fb5d79c2
+\ No newline at end of file
++git-commands.md,5/2/520caa0438b6c923705974bd53573259fb5d79c2
++:
++
++.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
++b
++2src/main/java/ru/madbrains/lesson2/Calculator.java,e/1/e119d6a6d6e0d04897b4d94dffb8feb468d6188b
+\ No newline at end of file
+Index: .idea/sonarlint/issuestore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n7\n\u0007pom.xml\u0012,4/4/442292b8a7efeabbe4cc176709b833b1792140ec\ne\n5src/main/java/ru/madbrains/lesson1/SquarePrinter.java\u0012,7/7/77eb08ffc060fe92e3acda5dfd385c6d181b8b6e\nk\n;src/main/java/ru/madbrains/lesson1/SquarePrinterAndrey.java\u0012,5/0/502bca352fe92108f5819686501ebee40867ecd3\n_\n/src/main/java/ru/madbrains/lesson1/Methods.java\u0012,9/8/98d999222e2d5db9cfe8be64065f9067a1552497\n?\n\u000Fgit-commands.md\u0012,5/2/520caa0438b6c923705974bd53573259fb5d79c2
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/issuestore/index.pb b/.idea/sonarlint/issuestore/index.pb
+--- a/.idea/sonarlint/issuestore/index.pb	
++++ b/.idea/sonarlint/issuestore/index.pb	
+@@ -8,4 +8,9 @@
+ _
+ /src/main/java/ru/madbrains/lesson1/Methods.java,9/8/98d999222e2d5db9cfe8be64065f9067a1552497
+ ?
+-git-commands.md,5/2/520caa0438b6c923705974bd53573259fb5d79c2
+\ No newline at end of file
++git-commands.md,5/2/520caa0438b6c923705974bd53573259fb5d79c2
++:
++
++.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
++b
++2src/main/java/ru/madbrains/lesson2/Calculator.java,e/1/e119d6a6d6e0d04897b4d94dffb8feb468d6188b
+\ No newline at end of file
