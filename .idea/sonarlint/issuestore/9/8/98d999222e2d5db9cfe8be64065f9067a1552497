@@ -1,0 +1,35 @@
+
+`
+java:S1226">Introduce a new variable instead of reusing the parameter "a".(éºÙâüÿÿÿÿ8Ğ¹„¼ÿ1
+e
+java:S1226("CIntroduce a new variable instead of reusing the parameter "random".(Ñå±ıÿÿÿÿ8Ñ¹„¼ÿ1
+L	java:S106
+"+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ8ë¹„¼ÿ1
+L	java:S106"+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ8ì¹„¼ÿ1
+L	java:S106"+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ8ì¹„¼ÿ1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ˜­îøÿÿÿÿ8ì¹„¼ÿ1
+L	java:S106"+Replace this use of System.out by a logger.(ÜÓ’¸úÿÿÿÿ8í¹„¼ÿ1
+@
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ï¹„¼ÿ1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ§ğ²8ï¹„¼ÿ1
+F	java:S106!"+Replace this use of System.out by a logger.(í«¯28ğ¹„¼ÿ1
+]	java:S125$"<This block of commented-out lines of code should be removed.(á¹Êâıÿÿÿÿ8ğ¹„¼ÿ1
+@
+java:S2119("Save and re-use this "Random".(Ñå±ıÿÿÿÿ8ğ¹„¼ÿ1
+G	java:S106)"+Replace this use of System.out by a logger.(Ö‹³½8ğ¹„¼ÿ1
+L	java:S106."+Replace this use of System.out by a logger.(Õëû…øÿÿÿÿ8ñ¹„¼ÿ1
+G	java:S106/"+Replace this use of System.out by a logger.(×Æáî8ñ¹„¼ÿ1
+L	java:S1061"+Replace this use of System.out by a logger.(ˆïŒúÿÿÿÿ8ñ¹„¼ÿ1
+G	java:S1062"+Replace this use of System.out by a logger.(×Æáî8ñ¹„¼ÿ1
+]	java:S1256"<This block of commented-out lines of code should be removed.(ˆ›®Ìúÿÿÿÿ8ñ¹„¼ÿ1
+G	java:S1068"+Replace this use of System.out by a logger.(§ç›8ò¹„¼ÿ1
+L	java:S106?"+Replace this use of System.out by a logger.(„õæúıÿÿÿÿ8ò¹„¼ÿ1
+G	java:S106@"+Replace this use of System.out by a logger.(Åà™ˆ8ò¹„¼ÿ1
+G	java:S106A"+Replace this use of System.out by a logger.(˜Çæã8ò¹„¼ÿ1
+L	java:S106D"+Replace this use of System.out by a logger.(•‰ÔĞûÿÿÿÿ8ó¹„¼ÿ1
+G	java:S106E"+Replace this use of System.out by a logger.(Åà™ˆ8ó¹„¼ÿ1
+G	java:S106F"+Replace this use of System.out by a logger.(˜Çæã8ó¹„¼ÿ1
+L	java:S106L"+Replace this use of System.out by a logger.(¼Ş¸Ãøÿÿÿÿ8ó¹„¼ÿ1
+L	java:S106Q"+Replace this use of System.out by a logger.(¼Ş¸Ãøÿÿÿÿ8ô¹„¼ÿ1
+^
+java:S1144J"<Remove this unused private "testSomeObjectReference" method.(Ì£÷Ïüÿÿÿÿ8ºú†¼ÿ1
